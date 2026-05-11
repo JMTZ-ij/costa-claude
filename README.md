@@ -175,10 +175,4 @@ Removes all `costa*` skills, agents, and scripts from `~/.claude/`. Generated `C
 
 ---
 
-## License
 
-MIT — same as the upstream `ai-sales-team-claude` repo.
-
----
-
-*Built for Costanera Ltd · costanera.uk · eduardo@costanera.uk*
