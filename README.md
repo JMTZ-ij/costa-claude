@@ -34,14 +34,14 @@ Estimated $/Month Saved:     $3,290
 Full report saved to: COSTANERA-PROSPECT.md
 ```
 
-Then `/costa outreach <prospect>` drafts the cold email in Eduardo's voice, and `/costa proposal <client>` expands into a full three-tier proposal.
+Then `/costa outreach <prospect>` drafts the cold email in Our voice, and `/costa proposal <client>` expands into a full three-tier proposal.
 
 ---
 
 ## Install
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/<your-org>/costa-claude/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/JMTZ-ij/costa-claude/main/install.sh | bash
 ```
 
 Or from a local clone:
