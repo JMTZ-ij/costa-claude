@@ -1,0 +1,13 @@
+# Costanera AI Sales Studio — Python requirements
+#
+# The analyzer script (scripts/analyze_prospect.py) uses Python standard
+# library only. No installs are strictly required.
+#
+# Optional packages that improve parsing if installed (the script falls
+# back gracefully if absent):
+#
+#   beautifulsoup4    # cleaner HTML parsing for messy sites
+#
+# To install the optional package:
+#
+#   pip3 install beautifulsoup4
