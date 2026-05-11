@@ -2,7 +2,7 @@
 
 Claude Code skills suite for Costanera Ltd's prospecting workflow. Paste a URL, get a scored operational audit and a ready-to-send three-tier retainer proposal — in Costanera's voice, scoped to a 2-person team.
 
-Adapted from [zubair-trabzada/ai-sales-team-claude](https://github.com/zubair-trabzada/ai-sales-team-claude). Original suite was a generic B2B SaaS sales tool. This version is rewritten end-to-end for Costanera's specific positioning: Airtable + automation + AI integration as a monthly retainer.
+This version is rewritten end-to-end for Costanera's specific positioning: Airtable + automation + AI integration as a monthly retainer.
 
 ---
 
