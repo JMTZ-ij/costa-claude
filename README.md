@@ -47,7 +47,7 @@ curl -fsSL https://raw.githubusercontent.com/JMTZ-ij/costa-claude/main/install.s
 Or from a local clone:
 
 ```bash
-git clone https://github.com/<your-org>/costa-claude.git
+git clone https://github.com/JMTZ-ij/costa-claude.git
 cd costa-claude
 ./install.sh
 ```
